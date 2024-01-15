@@ -3,5 +3,6 @@ This is the first certification project to demonstrate understanding of Git and 
 
 ## TODO:
 You are required to create a fork and send in your github username in a branchname similar to your username
-DIJD
-JANJA PROGRAMMERS
+
+### Done:
+Hoping you remembered to type in your interests
