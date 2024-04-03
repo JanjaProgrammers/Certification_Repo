@@ -1,5 +1,5 @@
 
-my Github user name is JAIRUS_TEYIE.
+my Github user name is my file name.
 
 Im a Geospatial Scientist with experience in Spatial data driven decision making. 
 
